@@ -1,0 +1,13 @@
+{
+  "name": "sunatRucScraper",
+  "version": "0.0.1",
+  "description": "Simple Query Ruc SUNAT - PERU",
+  "main": "index.js",
+  "author": "Cshion",
+  "dependencies": {
+    "async": "^1.4.0",
+    "cheerio": "^0.19.0",
+    "dv": "^1.9.3",
+    "request": "^2.60.0"
+  }
+}
