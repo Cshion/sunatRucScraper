@@ -6,6 +6,18 @@
 ## Instalation
 - npm install 
 
+
+## Example :
+
+	var rucScraper = require("./lib");
+	rucScraper({ruc:"20434178780"},function  (err,data) {
+		if(err)
+			console.log(err)
+		console.log(data);
+	})
+
+
+
 ## TODO 
 - Update Readme
 - Informacion de RUC (Done)

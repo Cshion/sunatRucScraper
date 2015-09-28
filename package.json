@@ -2,7 +2,7 @@
   "name": "sunatRucScraper",
   "version": "0.0.1",
   "description": "Simple Query Ruc SUNAT - PERU",
-  "main": "index.js",
+  "main": "lib/index.js",
   "author": "Cshion",
   "dependencies": {
     "async": "^1.4.0",
