@@ -3,11 +3,11 @@
 ## Requisitos
 - Installed Nodejs >= 0.10
 
-## Instalation
+## Instalacion
 - npm install 
 
 
-## Example :
+## Ejemplo :
 
 	var rucScraper = require("./lib");
 	rucScraper({ruc:"20434178780"},function  (err,data) {
